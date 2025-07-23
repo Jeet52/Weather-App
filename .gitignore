@@ -1,0 +1,15 @@
+# Android Studio ignore file
+.gradle/
+.idea/
+build/
+local.properties
+*.iml
+.DS_Store
+*.apk
+*.ap_
+*.dex
+*.class
+.externalNativeBuild/
+.cxx/
+*.jks
+*.log
