@@ -49,9 +49,10 @@ const val API_KEY = "your_api_key"
 Run on an emulator or real device
 
 
+## About the Developer
 Jeet Patel
 📍 University of Illinois at Chicago
-🧠 Stats Major, CS & Econ Minor
+🧠 Statistics Major, Computer Science & Economics Minor
 🛠️ Data Science & Web Development Intern
 🏆 Spark Hacks Hackathon Winner
 🔗 [GitHub](https://github.com/Jeet52)
