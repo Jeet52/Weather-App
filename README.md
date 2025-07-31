@@ -48,24 +48,6 @@ You can define it as a constant (or better, use BuildConfig):
 const val API_KEY = "your_api_key"
 Run on an emulator or real device
 
-## 📂 Project Structure
-Weather-App/
-├── app/
-│   └── src/
-│       └── main/
-│           ├── java/com/example/weather/
-│           │   ├── MainActivity.kt
-│           │   ├── ApiInterface.kt
-│           │   ├── ZipApi.kt
-│           │   ├── models/
-│           │   │   ├── Coord.kt, Clouds.kt, Sys.kt, Weather.kt, Wind.kt
-│           └── res/
-│               ├── layout/activity_main.xml
-│               ├── font/ (Samsung-style font)
-│               ├── raw/ (Lottie .json animations)
-│               └── values/
-├── build.gradle
-└── README.md
 
 Jeet Patel
 📍 University of Illinois at Chicago
